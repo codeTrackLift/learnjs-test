@@ -1,6 +1,5 @@
 // https://github.com/sitek94/vite-deploy-demo
 
-name: Deploy
 on:
   push:
     branches:
