@@ -2,6 +2,7 @@
   "name": "learnjs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://codetracklift.github.io/temp",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
